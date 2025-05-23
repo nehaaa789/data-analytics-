@@ -6,8 +6,9 @@
 This project focuses on analyzing student performance using a dataset that includes marks in three subjects (Maths, Science, English) and attendance percentages. The goal is to preprocess the data and perform Exploratory Data Analysis (EDA) to derive insights about academic performance trends.
 
 ## Team Members :
-   ##Admin - Neha Kumari 
-   ##Member - Devendra Kumar 
+   Admin - Neha Kumari 
+
+   Member - Devendra Kumar 
 
 ## 🔧 Steps Performed:
 
