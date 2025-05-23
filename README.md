@@ -33,15 +33,15 @@ This project focuses on analyzing student performance using a dataset that inclu
 ## 🛠️ Tools & Technologies:
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- Seaborn
+
 - PowerPoint
 
 ## 📎 Project Status:
 ✅ Completed and submitted for Review 1.
 
 ## 📌 How to Run:
-1. Open the notebook in Jupyter or VS Code.
+1. Open the notebook in VS Code.
 2. Run all cells to see the full preprocessing and EDA steps.
 3. Review the charts and observations.
 
