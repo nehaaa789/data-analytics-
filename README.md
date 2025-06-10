@@ -37,8 +37,31 @@ This project focuses on analyzing student performance using a dataset that inclu
 
 - PowerPoint
 
+# Data Visualization Project – Review 2
+
+## 📁 Dataset
+The dataset contains marks of 20 students across 3 subjects (Maths, Science, English) along with their attendance percentage.
+
+## 📊 Visualizations
+1. **Subject-wise Total Scores** – Compares total marks scored in each subject.
+2. **Maths Performance** – Distribution of students by performance categories in Maths.
+3. **Attendance vs Average Marks** – Shows how attendance impacts overall marks.
+4. **Top 3 Students by Average Marks** – Highlights top performers.
+
+## 📌 Insights
+- Maths has the highest total score overall.
+- Attendance positively correlates with better performance.
+- Most students score well in Science but fewer do in English.
+- Top performers have both high attendance and high scores.
+
+## 📎 How to Run
+```bash
+pip install pandas matplotlib
+python filename.py  # Replace with the appropriate file to run
+
+
 ## 📎 Project Status:
-✅ Completed and submitted for Review 1.
+✅ Completed and submitted for Review 1 & 2.
 
 ## 📌 How to Run:
 1. Open the notebook in VS Code.
